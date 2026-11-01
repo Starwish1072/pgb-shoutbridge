@@ -98,4 +98,5 @@ MIT
 ## 作者
 
 Starwish1072
-Cammile•James（同一人）
+
+Cammile•James
