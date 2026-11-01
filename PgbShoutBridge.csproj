@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <AssemblyName>PgbShoutBridge</AssemblyName>
+    <RootNamespace>PgbShoutBridge</RootNamespace>
+    <Nullable>disable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <GenerateDocumentationFile>false</GenerateDocumentationFile>
+    <NoWarn>CS8600;CS8602;CS8604;CS8618</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="src\**\*.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="ClassIsland.Core"><HintPath>C:\classisland\app-2.1.0.1-0\ClassIsland.Core.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="ClassIsland.Shared"><HintPath>C:\classisland\app-2.1.0.1-0\ClassIsland.Shared.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Avalonia.Base"><HintPath>C:\classisland\app-2.1.0.1-0\Avalonia.Base.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Avalonia.Controls"><HintPath>C:\classisland\app-2.1.0.1-0\Avalonia.Controls.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Avalonia"><HintPath>C:\classisland\app-2.1.0.1-0\Avalonia.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions"><HintPath>C:\classisland\app-2.1.0.1-0\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Extensions.Hosting.Abstractions"><HintPath>C:\classisland\app-2.1.0.1-0\Microsoft.Extensions.Hosting.Abstractions.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions"><HintPath>C:\classisland\app-2.1.0.1-0\Microsoft.Extensions.Logging.Abstractions.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="CommunityToolkit.Mvvm"><HintPath>C:\classisland\app-2.1.0.1-0\CommunityToolkit.Mvvm.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="NAudio"><HintPath>C:\classisland\app-2.1.0.1-0\NAudio.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="NAudio.Core"><HintPath>C:\classisland\app-2.1.0.1-0\NAudio.Core.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="NAudio.Wasapi"><HintPath>C:\classisland\app-2.1.0.1-0\NAudio.Wasapi.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="NAudio.WinMM"><HintPath>C:\classisland\app-2.1.0.1-0\NAudio.WinMM.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Edge_tts_sharp"><HintPath>C:\classisland\app-2.1.0.1-0\Edge_tts_sharp.dll</HintPath><Private>false</Private></Reference>
+  </ItemGroup>
+</Project>

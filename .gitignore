@@ -1,0 +1,11 @@
+﻿bin/
+obj/
+out/
+dist/
+*.user
+*.asar
+*.bin
+app-*.txt
+mock-*.js
+test-*.js
+repatch.log
