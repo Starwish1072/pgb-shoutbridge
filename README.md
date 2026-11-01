@@ -1,3 +1,5 @@
+<img src="icon.png" width="96" align="right" alt="icon" />
+
 # 批改邦喊话桥接 · ClassIsland 插件
 
 把「批改邦」教师端的**教室远程喊话**接到 **ClassIsland 2.1**：老师一喊话，教室大屏上的岛会飞下来变成一张液态玻璃悬浮卡片，带涟漪特效、提示音和语音播报。
