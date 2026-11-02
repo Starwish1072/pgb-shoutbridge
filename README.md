@@ -4,6 +4,7 @@
 
 把「批改邦」教师端的**教室远程喊话**接到 **ClassIsland 2.1**：老师一喊话，教室大屏上会在屏幕中间出现一张悬浮卡片，带涟漪特效、提示音和语音播报。（目前动画未完善，此为初次版本）
 
+环境一键配置详见https://github.com/Starwish1072/classisland-plugin-devkit/blob/main/README.md
 > 不弹批改邦窗口、不打断课堂，全自动。
 
 ## 功能
