@@ -1,7 +1,7 @@
 ﻿id: pgb.shoutbridge
 name: 批改邦喊话桥接
 description: 接收批改邦「教室远程喊话」，改为在 ClassIsland 弹出提醒并用原生 TTS 播报，不再唤醒批改邦主界面。
-version: 1.2.Next1.0
+version: 1.2.0.1
 apiVersion: 2.0.0.0
 author: DSH
 icon: icon.png
